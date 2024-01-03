@@ -37,7 +37,7 @@ And [Python 3.11](https://www.python.org/downloads/release/python-3114/)
 
 ## ✍️ Usage
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1159154741918564474/1184566370428534904/image.png" alt="Helium" width="1000">
+  <img src="https://cdn.discordapp.com/attachments/1159154741918564474/1192110796260528158/image.png" alt="Helium" width="1000">
 </p>
 
 ## ⚠️ Disclaimer
