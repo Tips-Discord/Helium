@@ -156,7 +156,7 @@ class Render:
 
     def render_ascii(self):
         os.system('cls')
-        os.system(f"title Helium - Connected as {os.getlogin()}")
+        os.system(f"title Helium - Hello can we allow edging")
         edges = ["╗", "║", "╚", "╝", "═", "╔"]
         title = f"""
 {'██╗  ██╗███████╗██╗     ██╗██╗   ██╗███╗   ███╗'.center(self.size)}
@@ -853,6 +853,7 @@ class Raider:
 
         with open("data/tokens.txt", "r") as f:
             tokens = f.read().splitlines()
+        tokens = list(set(tokens))
         args = [
             (token, ) for token in tokens
         ]
