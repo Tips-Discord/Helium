@@ -30,6 +30,8 @@
 ## 📝 Licensing
 You are free to distribute and modify this program under the [GPL V2 License](https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt). Please ensure proper credit is given to our project.
 
+# █▬█ █ ▀█▀
+
 # Installation
 ### Requirements
 A [Brain](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/brain)
